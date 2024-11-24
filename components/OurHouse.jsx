@@ -1,19 +1,19 @@
-import React from 'react';
-import Image from 'next/image';
-import Shap2 from '../public/OurHouseimg/Shap2.png';
-import Shape1 from '../public/OurHouseimg/Shape1.png';
-import Shape3 from '../public/OurHouseimg/Shape3.png';
-import Shape4 from '../public/OurHouseimg/Shape4.png';
-import Ellipse6 from '../public/OurHouseimg/Ellipse6.png';
-import VectorContact from '../public/OurHouseimg/VectorContact.png';
-import Rectangle17 from '../public/OurHouseimg/Rectangle17.png';
-import Rectangle18 from '../public/OurHouseimg/Rectangle18.png';
-import Rectangle19 from '../public/OurHouseimg/Rectangle19.png';
-import Rectangle20 from '../public/OurHouseimg/Rectangle20.png';
-import Playicon from '../public/OurHouseimg/Playicon.png';
-import colorblur1 from '../public/OurHouseimg/colorblur1.png';
-import colorblur3 from '../public/OurHouseimg/colorblur3.png';
-import Link from 'next/link';
+import React from "react";
+import Image from "next/image";
+import Shap2 from "../public/OurHouseimg/Shap2.png";
+import Shape1 from "../public/OurHouseimg/Shape1.png";
+import Shape3 from "../public/OurHouseimg/Shape3.png";
+import Shape4 from "../public/OurHouseimg/Shape4.png";
+import Ellipse6 from "../public/OurHouseimg/Ellipse6.png";
+import VectorContact from "../public/OurHouseimg/VectorContact.png";
+import Rectangle17 from "../public/OurHouseimg/Rectangle17.png";
+import Rectangle18 from "../public/OurHouseimg/Rectangle18.png";
+import Rectangle19 from "../public/OurHouseimg/Rectangle19.png";
+import Rectangle20 from "../public/OurHouseimg/Rectangle20.png";
+import Playicon from "../public/OurHouseimg/Playicon.png";
+import colorblur1 from "../public/OurHouseimg/colorblur1.png";
+import colorblur3 from "../public/OurHouseimg/colorblur3.png";
+import Link from "next/link";
 
 function OurHouse() {
   return (
@@ -32,7 +32,7 @@ function OurHouse() {
           </div>
           <div className="xl:pl-16">
             <h1 className="text-xl lg:text-3xl py-2 xl:py-4 font-semibold">
-              Let's Tour And See Our House!
+              Let&rsquo;s Tour And See Our House!
             </h1>
             <p className="text-sm xl:text-base pt-2 text-gray-600 xl:w-[80%]">
               Houses recommended by our partners that have been created to
@@ -74,7 +74,7 @@ function OurHouse() {
                     src={VectorContact}
                     alt=""
                     className="lg:mr-4 ml-2 mx-3"
-                  />{' '}
+                  />{" "}
                   <span className="hidden lg:block">Contact Now</span>
                 </button>
               </Link>

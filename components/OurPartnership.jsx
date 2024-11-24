@@ -1,16 +1,16 @@
-import React from 'react';
-import Image from 'next/image';
-import Vectorclock from '../public/OurPartnershipimg/Vectorclock.png';
-import Ellipse6 from '../public/OurPartnershipimg/Ellipse6.png';
-import Ellipse7 from '../public/OurPartnershipimg/Ellipse7.png';
-import Ellipse8 from '../public/OurPartnershipimg/Ellipse8.png';
-import Ellipse9 from '../public/OurPartnershipimg/Ellipse9.png';
-import Leftimg1 from '../public/OurPartnershipimg/Leftimg1.png';
-import Leftimg2 from '../public/OurPartnershipimg/Leftimg2.png';
-import Leftimg3 from '../public/OurPartnershipimg/Leftimg3.png';
-import Rightimg from '../public/OurPartnershipimg/Rightimg.png';
-import colorblur2 from '../public/OurPartnershipimg/colorblur2.png';
-import Link from 'next/link';
+import React from "react";
+import Image from "next/image";
+import Vectorclock from "../public/OurPartnershipimg/Vectorclock.png";
+import Ellipse6 from "../public/OurPartnershipimg/Ellipse6.png";
+// import Ellipse7 from "../public/OurPartnershipimg/Ellipse7.png";
+// import Ellipse8 from "../public/OurPartnershipimg/Ellipse8.png";
+// import Ellipse9 from "../public/OurPartnershipimg/Ellipse9.png";
+import Leftimg1 from "../public/OurPartnershipimg/Leftimg1.png";
+import Leftimg2 from "../public/OurPartnershipimg/Leftimg2.png";
+import Leftimg3 from "../public/OurPartnershipimg/Leftimg3.png";
+import Rightimg from "../public/OurPartnershipimg/Rightimg.png";
+import colorblur2 from "../public/OurPartnershipimg/colorblur2.png";
+import Link from "next/link";
 
 function OurPartnership() {
   return (
